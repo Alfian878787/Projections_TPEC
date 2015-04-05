@@ -1,0 +1,11 @@
+C:\Users\JeevanAmarReddy\Documents\Visual Studio 2012\Projects\AverageDoseValues\AverageDoseValues\bin\Debug\AverageDoseValues.exe.config
+C:\Users\JeevanAmarReddy\Documents\Visual Studio 2012\Projects\AverageDoseValues\AverageDoseValues\bin\Debug\AverageDoseValues.exe
+C:\Users\JeevanAmarReddy\Documents\Visual Studio 2012\Projects\AverageDoseValues\AverageDoseValues\bin\Debug\AverageDoseValues.pdb
+C:\Users\JeevanAmarReddy\Documents\Visual Studio 2012\Projects\AverageDoseValues\AverageDoseValues\obj\Debug\AverageDoseValues.Properties.Resources.resources
+C:\Users\JeevanAmarReddy\Documents\Visual Studio 2012\Projects\AverageDoseValues\AverageDoseValues\obj\Debug\AverageDoseValues.csproj.GenerateResource.Cache
+C:\Users\JeevanAmarReddy\Documents\Visual Studio 2012\Projects\AverageDoseValues\AverageDoseValues\obj\Debug\AverageDoseValues.exe
+C:\Users\JeevanAmarReddy\Documents\Visual Studio 2012\Projects\AverageDoseValues\AverageDoseValues\obj\Debug\AverageDoseValues.pdb
+C:\Users\JeevanAmarReddy\Documents\Visual Studio 2012\Projects\AverageDoseValues\AverageDoseValues\obj\Debug\AverageDoseValues.Main.resources
+C:\Users\saicharan\Desktop\AverageDoseValues\AverageDoseValues\bin\Debug\AverageDoseValues.exe.config
+C:\Users\saicharan\Desktop\AverageDoseValues\AverageDoseValues\obj\Debug\AverageDoseValues.exe
+C:\Users\saicharan\Desktop\AverageDoseValues\AverageDoseValues\obj\Debug\AverageDoseValues.pdb
